@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+###Trying some markdown here
 Use the left arrow to go back!
 
 Rules to live by for commit messages:
